@@ -74,6 +74,7 @@ The notebook is self-contained (dataset embedded); running all cells reproduces 
 - Miguel González
 - Edson Quevedo
 - Jaime Rivera
+  
 **Course:** MSI608 — Special Topics in Data Science, Master's in Computer Engineering, Universidad Andrés Bello (UNAB)
 **Delivery date:** August 29, 2026
  
