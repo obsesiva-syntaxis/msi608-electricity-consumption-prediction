@@ -68,10 +68,10 @@ The notebook is self-contained (dataset embedded); running all cells reproduces 
  
 ## 👥 Team
  
-- Eric Silva
-- Brian Guzman
-- Miguel González
-- Edson Quevedo
+- Eric Silva https://github.com/eRICasl
+- Brian Guzman https://github.com/bguzmanm
+- Miguel González https://github.com/obsesiva-syntaxis
+- Edson Quevedo https://github.com/braulio20aa
 - Jaime Rivera
   
 **Course:** MSI608 — Special Topics in Data Science, Master's in Computer Engineering, Universidad Andrés Bello (UNAB)
