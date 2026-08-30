@@ -32,15 +32,14 @@ Full results, including weekly/monthly/annual aggregated metrics, are reported i
  
 ```
 .
-├── notebook/
-│   └── analisis_consumo_autonomo.ipynb   # Full pipeline: EDA, modeling, evaluation, forecasting
+
 ├── dataset/
-│   └── data_ys.csv                        # Daily aggregated consumption (year, month, day, consumption)
-├── paper/
-│   └── MSI608_Proyecto_1_final.docx       # IEEE Access paper (6 pages, double column)
+│   └── data_ys.csv                        # Daily aggregated consumption (year, month, day, consumption)  
 ├── figures/
 │   ├── Figura1_Arquitectura_Pipeline.drawio   # Pipeline architecture diagram (editable, draw.io)
 │   └── ...                                # Exported figures used in the paper (ACF/PACF, loss curve, predictions, etc.)
+├── analisis_consumo_autonomo.ipynb   # Full pipeline: EDA, modeling, evaluation, forecasting
+├── MSI608_Proyecto_1_final.docx # IEEE Access paper (6 pages, double column)
 └── README.md
 ```
  
@@ -80,4 +79,4 @@ The notebook is self-contained (dataset embedded); running all cells reproduces 
  
 ## 📄 License
  
-Academic project for course purposes — MSI608, UNAB. *[Adjust or remove if the course requires a specific license]*
+Academic project for course purposes — MSI608, UNAB.
