@@ -1,4 +1,4 @@
-# Electricity Consumption Forecasting — MSI608
+# Electricity Consumption Prediction — MSI608
  
 Daily electricity consumption forecasting using Naive, SARIMA, and MLP models, developed for the **MSI608 — Special Topics in Data Science** course, Master's in Computer Engineering (Magíster en Ingeniería Informática), Universidad Andrés Bello (UNAB).
  
