@@ -72,7 +72,7 @@ The notebook is self-contained (dataset embedded); running all cells reproduces 
 - Brian Guzman https://github.com/bguzmanm
 - Miguel González https://github.com/obsesiva-syntaxis
 - Edson Quevedo https://github.com/braulio20aa
-- Jaime Rivera
+- Jaime Rivera https://github.com/jrlatin2
   
 **Course:** MSI608 — Special Topics in Data Science, Master's in Computer Engineering, Universidad Andrés Bello (UNAB)
 **Delivery date:** August 29, 2026
