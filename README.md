@@ -39,7 +39,7 @@ Full results, including weekly/monthly/annual aggregated metrics, are reported i
 │   ├── Figura1_Arquitectura_Pipeline.drawio   # Pipeline architecture diagram (editable, draw.io)
 │   └── ...                                # Exported figures used in the paper (ACF/PACF, loss curve, predictions, etc.)
 ├── analisis_consumo_autonomo.ipynb   # Full pipeline: EDA, modeling, evaluation, forecasting
-├── MSI608_Proyecto_1_final.docx # IEEE Access paper (6 pages, double column)
+├── Electricity_Consumption_Prediction.pdf # IEEE Access paper (6 pages, double column)
 └── README.md
 ```
  
