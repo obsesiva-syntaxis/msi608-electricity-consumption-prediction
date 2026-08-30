@@ -2,7 +2,7 @@
  
 Daily electricity consumption forecasting using Naive, SARIMA, and MLP models, developed for the **MSI608 — Special Topics in Data Science** course, Master's in Computer Engineering (Magíster en Ingeniería Informática), Universidad Andrés Bello (UNAB).
  
-This repository accompanies the IEEE Access-format paper *"[Título del paper — completar]"*, which compares three forecasting approaches of increasing complexity over a four-year daily electricity demand series, and evaluates their performance at multiple aggregation horizons (daily, weekly, monthly, annual).
+This repository accompanies the IEEE Access-format paper *"Electricity Consumption Prediction"*, which compares three forecasting approaches of increasing complexity over a four-year daily electricity demand series, and evaluates their performance at multiple aggregation horizons (daily, weekly, monthly, annual).
  
 ---
  
